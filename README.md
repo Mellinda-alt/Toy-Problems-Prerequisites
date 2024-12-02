@@ -31,7 +31,7 @@ To acquire the contents of this repository on your machine you should:
 - Open the command line interface on your computer.
 - Clone the repo through the following command:
 
-         `git clone https://github.com/mellinda-alt/Toy-Problems-Prerequisites.git`
+         https://github.com/Mellinda-alt/Toy-Problems-Prerequisites
 - Open the repo folder where it has gotten cloned to by:
 
         cd [folder]
